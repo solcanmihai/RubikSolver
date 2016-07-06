@@ -1,0 +1,2 @@
+# RubikSolver
+Practica Pentalog
